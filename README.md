@@ -1,4 +1,4 @@
-Inspired by: [https://github.com/talaexe/WhoDoesntFollowBackIG](talaaexe)
+Inspired by: [talaexe](https://github.com/talaexe/WhoDoesntFollowBackIG)
 
 Follow [these](https://help.instagram.com/181231772500920) steps to access account: 
 
